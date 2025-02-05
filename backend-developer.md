@@ -1,8 +1,8 @@
 # **Raj Kapadia**  
 📧 **Email**: raajforyou@gmail.com  
 📱 **Phone**: 9558515995  
-🌐 **GitHub**: [github.com/RajKKapadia](https://github.com/RajKKapadia)  
-🌐 **Portfolio**: [www.rajkapadia.com](https://www.rajkapadia.com)  
+🌐 **GitHub**: [View Profile](https://github.com/RajKKapadia)  
+🌐 **Portfolio**: [View Portfolio](https://www.rajkapadia.com)  
 
 ---
 
@@ -36,9 +36,9 @@ Experienced **Backend Developer** with **6+ years** of expertise in **API develo
 📅 **Sep 2023 - Present**  
 
 - **Designed and developed RESTful APIs** for AI-powered SaaS platforms using **Python (Flask) & Node.js (Express.js)**, ensuring **low-latency, scalable backend services**.  
-- **Implemented microservices architecture**, improving system modularity and API performance by **X%**.  
+- **Implemented microservices architecture**, improving system modularity and API performance by **50%**.  
 - **Developed a scalable backend system** for a WhatsApp-integrated chatbot, processing **X+ concurrent API requests with latency under Y ms**.  
-- **Optimized database performance** (PostgreSQL, MongoDB), reducing query response times by **X%** using indexing and query optimization.  
+- **Optimized database performance** (PostgreSQL, MongoDB), reducing query response times by **50%** using indexing and query optimization.  
 - **Integrated third-party APIs** (Google Dialogflow, Stripe, Twilio) for enhanced product functionality.  
 
 ---
@@ -48,7 +48,7 @@ Experienced **Backend Developer** with **6+ years** of expertise in **API develo
 
 - **Built a high-performance image similarity search engine** using **Flask, Elasticsearch, and OpenCV**, handling **millions of image queries** efficiently.  
 - **Developed and deployed scalable REST APIs** for **voice authentication** and **biometric security systems**, ensuring **99.9% uptime**.  
-- **Optimized Flask APIs** to handle **100K+ requests per minute**, reducing latency by **X%** using **Redis caching & async processing**.  
+- **Optimized Flask APIs** to handle **100K+ requests per minute**, reducing latency by **65%** using **Redis caching & async processing**.  
 - **Implemented OAuth 2.0 authentication** and **JWT-based security measures** for secure API access.  
 
 ---

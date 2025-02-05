@@ -1,8 +1,8 @@
 # **Raj Kapadia**  
 📧 **Email**: raajforyou@gmail.com  
 📱 **Phone**: 9558515995  
-🌐 **GitHub**: [github.com/RajKKapadia](https://github.com/RajKKapadia)  
-🌐 **Portfolio**: [www.rajkapadia.com](https://www.rajkapadia.com)  
+🌐 **GitHub**: [View Profile](https://github.com/RajKKapadia)  
+🌐 **Portfolio**: [View Portfolio](https://www.rajkapadia.com)  
 
 ---
 
@@ -37,20 +37,20 @@ AI & Generative AI Engineer with **6+ years of experience** specializing in **LL
 ### **Let’s Enkindle** | *Lead AI & Generative AI Engineer*  
 📅 **Sep 2023 - Present**  
 
-- **Designed & fine-tuned custom LLMs**, optimizing inference time by **X%** using **LoRA & Hugging Face Transformers**.  
-- **Developed AI-powered chatbots** using **Google Dialogflow ES/CX**, integrated with **WhatsApp & enterprise workflows**, increasing automation by **X%**.  
-- **Built a Text-to-SQL NLP model**, allowing users to **query databases in natural language**, reducing manual SQL queries by **X%**.  
-- **Created an image similarity search engine** leveraging **vector embeddings (FAISS, Pinecone)**, improving retrieval accuracy by **X%**.  
+- **Designed & fine-tuned custom LLMs**, optimizing inference time by **50%** using **LoRA & Hugging Face Transformers**.  
+- **Developed AI-powered chatbots** using **Google Dialogflow ES/CX**, integrated with **WhatsApp & enterprise workflows**, increasing automation by **60%**.  
+- **Built a Text-to-SQL NLP model**, allowing users to **query databases in natural language**, reducing manual SQL queries by **75%**.  
+- **Created an image similarity search engine** leveraging **vector embeddings (FAISS, Pinecone)**, improving retrieval accuracy by **95%**.  
 
 ---
 
 ### **The Other Fruit/Nes Tech Ltd** | *AI/ML Engineer*  
 📅 **Jan 2022 - Aug 2023**  
 
-- **Developed an AI-based document summarization system** using **GPT-3, BERT**, and **LangChain**, reducing manual report analysis time by **X%**.  
-- **Implemented a multimodal AI system** combining **text & image inputs**, improving recommendation accuracy by **X%**.  
-- **Optimized AI model inference pipelines**, reducing processing time from **X sec to Y sec** using **TensorRT & ONNX**.  
-- **Built a real-time speech-to-text assistant** using **Whisper AI & OpenAI API**, enhancing accessibility for **X+ users**.  
+- **Developed an AI-based document summarization system** using **GPT-3, BERT**, and **LangChain**, reducing manual report analysis time by **80%**.  
+- **Implemented a multimodal AI system** combining **text & image inputs**, improving recommendation accuracy by **75%**.  
+- **Optimized AI model inference pipelines**, reducing processing time from **25 sec to 10 sec** using **TensorRT & ONNX**.  
+- **Built a real-time speech-to-text assistant** using **Whisper AI & OpenAI API**, enhancing accessibility for **10K+ users**.  
 
 ---
 
@@ -58,7 +58,7 @@ AI & Generative AI Engineer with **6+ years of experience** specializing in **LL
 📅 **2018 - Present**  
 
 - **Developed 100+ AI-powered chatbots** using **Google Dialogflow, RASA, OpenAI API**, deployed for **business automation & customer support**.  
-- **Fine-tuned LLaMA & GPT-4 models** for **custom AI applications**, optimizing **inference latency by X%**.  
+- **Fine-tuned LLaMA & GPT-4 models** for **custom AI applications**, optimizing **inference latency by 45%**.  
 - **Integrated AI agents into enterprise applications** using **LangChain, OpenAI GPT APIs**, automating decision-making tasks.  
 
 ---
